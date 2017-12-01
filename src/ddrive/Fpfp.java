@@ -7,6 +7,7 @@ public class Fpfp {
 		
 		System.out.println("fofo");
 		System.out.println("fofofo");
+		System.out.println("fofofofo");
 	}
 
 }
