@@ -6,6 +6,7 @@ public class Fpfp {
 		// TODO 自動生成されたメソッド・スタブ
 		
 		System.out.println("fofo");
+		System.out.println("fofofo");
 	}
 
 }
